@@ -1,8 +1,10 @@
-Description
+Description:
+
 This is a project for the Web Dev 2 class at SAIT. It is a simple event management system that allows users to create and displays community events. It is built using Next.js, React, Tailwind CSS, and Firebase.
 The weekly code samples are referenced from the Web Dev 2 course.
 
-Getting Started
+Getting Started:
+
 First, install the dependencies:
 npm install
 
